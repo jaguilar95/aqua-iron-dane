@@ -10,18 +10,8 @@
     "id": "1"
   },
   {
-    "title": "Third test title",
-    "text": "Third test text",
+    "title": "Third Test Title",
+    "text": "Third Test Text",
     "id": "2"
-  },
-  {
-    "title": "Forth test title",
-    "text": "Forth test text",
-    "id": "3"
-  },
-  {
-    "title": "Fifth test title",
-    "text": "Fifth test text",
-    "id": "4"
   }
 ]
